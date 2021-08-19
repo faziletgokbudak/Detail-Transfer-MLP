@@ -1,4 +1,4 @@
-# Detail-Transfer-MLP
+# Detail Transfer-MLP
 
 One-shot end-to-end training with multilayer perceptrons
 
